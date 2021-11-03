@@ -1,0 +1,29 @@
+{
+   "id":"Z2lkOi8vc2hvcGlmeS9QYWdlLzg5MTcxMjk2NDEw",
+   "body":"Testo di esempio",
+   "createdAt":"2021-08-25T08:25:13Z",
+   "handle":"home",
+   "bodySummary":"Dati sull'azienda",
+   "updatedAt":"2021-10-07T13:38:45Z",
+   "url":"https://example.com/pages/home",
+   "title":"Home",
+   "seo":{
+      "description":null,
+      "title":"Home | Example"
+   },
+   "sections":{
+      "company_title":{
+         "html":"<p>Nome azienda</p>",
+         "text":"Nome azienda"
+      },
+      "company_text":{
+         "html":"<p>Dati sull'azienda</p>",
+         "text":"Dati sull'azienda"
+      },
+      "company_image":{
+         "html":"<p></p>",
+         "text":"",
+         "imageUrl":"https://example.com/es1024x1024.jpg"
+      }
+   }
+}
